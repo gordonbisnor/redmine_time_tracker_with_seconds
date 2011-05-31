@@ -2,7 +2,7 @@ require 'redmine'
 
 require_dependency 'time_tracker_hooks'
 
-Redmine::Plugin.register :redmine_time_tracker do
+Redmine::Plugin.register :redmine_time_tracker_with_seconds do
     name 'Redmine Time Tracker plugin'
     author 'Jérémie Delaitre'
     description 'This is a plugin to track time in Redmine'

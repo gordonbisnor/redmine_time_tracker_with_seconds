@@ -1,4 +1,6 @@
-= Redmine Time Tracker plugin
+= Redmine Time Tracker With Seconds plugin
+
+This fork adds seconds to the redmine_time_tracker plugin
 
 Time tracker is a Redmine plugin to ease time tracking when working on an issue.
 The plugin allows to start/suspend/resume/stop a timer on a per user basis.
